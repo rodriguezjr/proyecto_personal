@@ -5,7 +5,7 @@ export default function LandingPage() {
     <div className="min-h-screen bg-gray-100 text-gray-800 font-sans">
       <header className="bg-blue-800 text-white p-6 shadow-md">
         <h1 className="text-4xl font-bold">Junior David Rodriguez Ramos</h1>
-        <p className="text-lg">Ingeniero en Informática | Especialista en Automatización, IA y Desarrollo Web</p>
+        <p className="text-lg">Ingeniero en Informática | Especialista en Automatización y Control, IA y Desarrollo Web</p>
       </header>
 
       <nav className="bg-blue-700 text-white p-4 flex gap-6 text-sm md:text-base justify-center">
@@ -127,8 +127,8 @@ export default function LandingPage() {
         <ul className="list-none mb-4">
           <li><strong>Email:</strong> <a href="mailto:junior.david.rodriguez@gmail.com" className="text-blue-600">junior.david.rodriguez@gmail.com</a></li>
           <li className="flex items-center gap-2 mt-2">
-            <strong>Teléfono:</strong> +58 414 871 9267
-            <a href="https://wa.me/584148719267" target="_blank" rel="noopener noreferrer" className="bg-green-500 text-white px-2 py-1 rounded hover:bg-green-600 text-sm">WhatsApp</a>
+            <strong>Teléfono:</strong> +58 412 949 3909
+            <a href="https://wa.me/584129493909" target="_blank" rel="noopener noreferrer" className="bg-green-500 text-white px-2 py-1 rounded hover:bg-green-600 text-sm">WhatsApp</a>
           </li>
         </ul>
         <a href="mailto:junior.david.rodriguez@gmail.com" className="inline-block bg-blue-700 text-white px-4 py-2 rounded hover:bg-blue-800">Escríbeme por correo</a>
